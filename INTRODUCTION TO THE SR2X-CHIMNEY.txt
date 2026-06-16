@@ -1,0 +1,58 @@
+﻿### Cirrus SR2X Chimney for Various Models of the SR20, SR22/SR22T (G3-G7+) Aircraft
+
+
+### Overview
+This is a complete, production-ready STEP (ISO 10303) 3D model of a **quick-release engine cowling vent** designed specifically for the Cirrus SR20, SR22, and SR22T (G3–G7) with the wide-opening hinge edge.
+
+
+The vent provides **rapid passive expulsion of trapped residual heat** from the engine bay after shutdown, significantly reducing heat soak damage to magnetos, wiring, hoses, plastics, and other temperature-sensitive components. It also physically blocks birds, rodents, and debris from entering the cowling during the critical cool-down period.
+
+
+**Repository contains:**
+- Full parametric STEP file that can be uploaded to companies such as Shapeways for SLS printing in Nylon 12
+- Assembly with elastic cord and toggle grips by the person who utilizes the STEP to produce the part. The elastic cord prevent the oil filler flap from blowing open.
+
+
+### Key Features & Benefits
+
+
+- **Effortless Install/Removal** — Single-piece design with two integrated elasticated attachment bands. Fits or removes in seconds with no tools.
+- **Lightweight & Durable** — Printed in high-temperature nylon (or equivalent) — strong, impact-resistant, and extremely light.
+- **Animal & Debris Barrier** — Securely seals the oil door opening while allowing hot air to escape.
+- **Wind-Resistant** — Angled profile and strategic venting geometry prevent lifting or dislodging in wind from any direction. Also prevents the oil flap from slamming shut.
+- **High-Temperature Resistant** — Withstands post-shutdown engine bay temperatures during cool-down.
+- **Safety Aid** — Highly visible reminder that encourages a proper pre-flight inspection (including oil check). Must be removed before engine start.
+
+
+### Compatibility
+- Cirrus SR20, SR22, SR22T (G3 through G7) with **wide-opening hinge edge**.
+- Not compatible with earlier generations or narrow-hinge configurations.
+
+
+### Important Safety & Usage Notes
+- **Ground use only.** Install immediately after engine shutdown.  
+- **Remove before engine start** — include in your standard pre-flight checklist.  
+- **Remove before checking oil** during pre-flight.  
+
+
+**This is not a substitute for proper pre-flight procedures.** Always follow your aircraft’s POH and FAA regulations.
+
+
+### Licensing & Usage
+This design is released under a restrictive **non-commercial, no-derivatives** license. Personal/owner-operator use and modification for individual aircraft is permitted. Commercial reproduction, resale, or redistribution of the design files or derivative physical products is strictly prohibited. See `LICENSE` file for full terms.
+. 
+The design is intended for personal, non-commercial 3D printing by aircraft owners.
+
+
+### Recommended Printing
+- Material: Nylon PA12 or PA12 Tough  (PA6, PA12, or carbon-fiber reinforced) or high-temp PETG/ASA  
+- Type of Printing: SLS  
+- Not intended for FDM printing due to the overhangs and supports needed and the typical lower temp properties of FDM materials.
+
+
+**Intended Audience**  
+Cirrus SR22/SR22T owner-operators seeking a practical, high-quality solution for aesthetically more pleasing cargo floor management.
+
+
+**Designed with care for the Cirrus community by 67 Designs**  
+Pushing for better, American-made aviation hardware.
