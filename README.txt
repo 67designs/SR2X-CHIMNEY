@@ -1,4 +1,4 @@
-﻿SF50-GALLEY
+﻿SR2X-CHIMNEY
 
 
 This repository contains the complete hardware design files.
